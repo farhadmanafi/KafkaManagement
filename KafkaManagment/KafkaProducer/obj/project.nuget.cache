@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRjZfLQwxlAt1ig92WuTRq/lZdIm+9Fi3Gpeq9BQz/+rygOw0/YR7T1O+yNhTVLxvPDxNmKOn4jsPdg4ivBkrw==",
+  "success": true,
+  "projectFilePath": "D:\\MyGitHub\\KafkaManagement\\KafkaManagment\\KafkaProducer\\KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f.manafi\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

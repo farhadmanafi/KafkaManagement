@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qUfvcIlD4xAb8bDiYcsNjiYDLjC0iORuhJSdWzS3SbI=",
+  "Source": "KafkaProducer",
+  "BasePath": "_content/KafkaProducer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
