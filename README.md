@@ -1,6 +1,8 @@
 # KafkaManagement
 Kafka Management ( KafkaConsumer + KafkaProducer )
 
-Farhad Manafi
+programer : Farhad Manafi
 
-farhad.manafi@gmail.com
+Email : farhad.manafi@gmail.com
+
+Linkedin : linkedin.com/in/farhad-manafi
