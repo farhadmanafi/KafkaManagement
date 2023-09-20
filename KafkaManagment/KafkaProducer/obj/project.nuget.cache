@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "oRjZfLQwxlAt1ig92WuTRq/lZdIm+9Fi3Gpeq9BQz/+rygOw0/YR7T1O+yNhTVLxvPDxNmKOn4jsPdg4ivBkrw==",
+  "dgSpecHash": "ZVY6b+3XN8Ptd6RZBTXcck/QtGeryr30gu3rrDjkyw1rN1bx/SpDSs+gjYtcSJWhezRwHj+BbEfpz9GpkqYawA==",
   "success": true,
   "projectFilePath": "D:\\MyGitHub\\KafkaManagement\\KafkaManagment\\KafkaProducer\\KafkaProducer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\f.manafi\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\f.manafi\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\f.manafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\f.manafi\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
   ],
   "logs": []
